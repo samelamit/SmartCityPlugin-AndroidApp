@@ -13,4 +13,5 @@ Requires registration on Bluemix.
 For More details on registration follow below link.
 https://www.ibm.com/developerworks/cloud/library/cl-mqtt-bluemix-iot-node-red-app/#N10163
 
-Eclipse Pahp Lib is used for MQTT.
+Eclipse Paho Lib is used for MQTT. It needs Eclipse Paho Android Service for MQTT Connection. For More deatils refer
+https://eclipse.org/paho/clients/android/
